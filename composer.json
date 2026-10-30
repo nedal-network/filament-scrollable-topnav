@@ -1,5 +1,5 @@
 {
-    "name": "emuniq/filament-scrollable-topnav",
+    "name": "nedal-network/filament-scrollable-topnav",
     "description": "Makes Filament's top navigation scrollable instead of wrapping into multiple rows when you have many navigation groups/clusters.",
     "license": "MIT",
     "keywords": [
